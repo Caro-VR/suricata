@@ -1,0 +1,22 @@
+.cards-list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: #17A2B8;
+}
+
+.cards-list div {
+    padding: 0px 10px 0px 10px;
+    color: white;
+}
+
+.img-footer {
+    padding: 20px 0px 40px 0px;
+    text-align: center;
+    background: #E83E8C;
+}
+
+h1 {
+    font-size: 60px;
+}
